@@ -1,5 +1,7 @@
 # MIS Galahad 10 PE
-本PE基于Windows 10 20H2 64位系统镜像制作。
+本PE由MIS开发，基于Windows 10 20H2 64位系统镜像制作。
+
+本次更新：2021年1月26日
 
 
 特点 Features：
