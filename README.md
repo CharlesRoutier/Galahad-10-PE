@@ -20,7 +20,9 @@
 
 
 关于启动：建议制作Ventoy U盘，将ISO拷贝到U盘中，按照启动盘方式启动U盘，菜单处选择Galahad 10 PE.
+
 Ventoy2Disk下载地址：https://www.ventoy.net/cn/download.html
+
 
 下载地址：
 诚通网盘：https://u062.com/f/29731701-480298151-0547b3 （访问密码：8583）
