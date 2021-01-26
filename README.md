@@ -23,5 +23,6 @@
 Ventoy2Disk下载地址：https://www.ventoy.net/cn/download.html
 
 下载地址：
-诚通网盘：https://u062.com/f/29731701-480175874-4ce7c4 （访问密码：8583）
+诚通网盘：https://u062.com/f/29731701-480298151-0547b3 （访问密码：8583）
+
 
